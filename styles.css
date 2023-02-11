@@ -1,1 +1,76 @@
-/* Copy and paste your CSS from CodePen into here */
+*{margin:0px;
+    padding:0px;
+    font-family:Gill Sans;}
+    a{text-decoration:none;
+    font-weight:bold;}
+    a:link{color:blue;}
+    a:hover{color:#228822;}
+    a:visited{color:grey;}
+    h2{text-align:center;
+    font-size:3vw;
+    font-family: Julee;}
+    h3{text-align:center;
+    font-size:6vw;
+    font-family: Julee;
+    margin: 5px 0px 5px 0px;}
+    p{margin:5vw 0 5vw 0;}
+    ul{padding:0 1vw 0 1vw;}
+    li {font-size:1em;
+    margin-left:1.5vw;}
+    #footer{
+    margin-top:3vw;
+    font-size:2.5vw;
+    padding:0.5em;
+    border-style:dashed;
+    border-width:3px;
+    border-color:#006600;
+    background-color:#47FF47;}
+    #main {background-color:#C2FFC2;
+    padding:10vw;
+    text-align:center;}
+    #title {font-size:10vw;
+    font-family: Julee;}
+    #img-div{
+      background-color:#FFFFFF;
+    border-style:dashed;
+    border-width:3px;
+    margin: 20px 0px 20px 0px;
+    padding:3vw;}
+    #image {
+    max-width:100%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    }
+    #img-caption {
+    font-size:2vw;
+    text-align:center;
+    padding:0.3em;
+    font-family:Julee;}
+    #tribute-info {
+    background-color: #FFC2C2;
+    text-align:left;
+    padding:0.7em;
+    border-style:dashed;
+    border-width:3px;
+    border-color:#BB0000;
+    margin:auto;}
+    #tribute-link {}
+    #natparkimg{
+    max-width:100%;}
+    #nationalpark{
+    display:inline-block;
+    width: 18vw;
+    border-style:dashed;
+    border-width:3px;
+    border-color:#000000;
+    margin:auto;
+    font-size:1.5vw;
+    text-align:center;
+    padding:1.5vw;
+    background-color:#FFFFFF;}
+    #intropara{vertical-align:top;
+    display:inline-block;font-weight:bold;
+    width:50vw;
+    font-size:2vw;}
+   
